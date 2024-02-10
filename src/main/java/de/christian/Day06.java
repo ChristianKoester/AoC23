@@ -1,9 +1,7 @@
 package de.christian;
 
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class Day06 {
     public static void run() throws FileNotFoundException {
